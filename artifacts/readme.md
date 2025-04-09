@@ -4,3 +4,5 @@
 * Test 3
 * New Line
 * Test 4
+New Line
+----
