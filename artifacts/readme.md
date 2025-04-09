@@ -6,3 +6,4 @@
 * Test 4
 New Line
 ----
+----
